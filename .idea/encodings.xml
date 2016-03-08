@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_next.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_next_pressed.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_pause.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_pause_pressed.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_play.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_play_pressed.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_prev.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_prev_pressed.png" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
